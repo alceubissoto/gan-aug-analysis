@@ -1,0 +1,17 @@
+docopt==0.6.2
+jsonpickle==0.9.6
+munch==2.3.2
+numpy==1.16.2
+pandas==0.24.2
+Pillow==6.0.0
+pretrainedmodels==0.7.4
+py-cpuinfo==5.0.0
+python-dateutil==2.8.0
+pytz==2018.9
+sacred==0.7.4
+scikit-learn==0.20.3
+scipy==1.2.1
+six==1.12.0
+tqdm==4.31.1
+wrapt==1.11.1
+python-telegram-bot==10.1.0
